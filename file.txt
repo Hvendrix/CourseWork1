@@ -1,0 +1,12 @@
+1 1 nokia ves3000 android 3500 3
+2 2 cheholslovak nokia lox2000 GPalki 3000 1
+1 3 nokia tiak4000 android 3500 2
+1 9 xiaomi ash1000 android 6000 2
+1 7 nohia nox5000 android 3500 3
+3 5 zaradka nokia micro 200 9 ves3000 , tiak4000 .
+1 10 asus king6000 android 6000 2
+1 6 iphone izvon11 ios 450000 3
+1 8 nokia nox8000 android 3500 7
+1 4 alcatel mal10000 android 5000 5
+0
+
